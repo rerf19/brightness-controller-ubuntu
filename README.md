@@ -4,25 +4,25 @@
 
 <h1 align="center">Brightness Controller</h1>
 
-> Simple App to control monitors brightness on a desktop, when there is not GNOME option.
+> Simple App to control monitor's brightness on a desktop, when there is no GNOME option.
 
 ## Motivation
 
-Start using more and more Linux Ubuntu and having the problem to control the brightness of my monitors with a simple UI app make me to start this project.
+I started using more and more Linux Ubuntu and having the problem of controlling the brightness of my monitors with a simple UI app made me start this project.
 
 ## Prerequisites
 
-Don't know yet. I'm studing the best option.
+I don't know yet. I'm studying the best option.
 
 ## Installation or Getting Started
 
-Didn't start yet. :)
+I didn't start yet. :)
 
 ## Usage
 
-Needs to be simple. :)
+It needs to be simple. :)
 
-## Contributers
+## Contributors
 
 [![](https://github.com/rerf19.png?size=50)](https://github.com/rerf19)
 
