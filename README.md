@@ -12,15 +12,11 @@ I started using more and more Linux Ubuntu and having the problem of controlling
 
 ## Prerequisites
 
-I don't know yet. I'm studying the best option.
-
-## Installation or Getting Started
-
-I didn't start yet. :)
+- Python 3
 
 ## Usage
 
-It needs to be simple. :)
+For now, it is just a CLI. Really simple, choose your monitor with an `int` number and then choose the the brightness between `0` and `1`.
 
 ## Contributors
 
